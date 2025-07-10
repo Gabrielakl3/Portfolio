@@ -3,7 +3,7 @@
 🎓 **MSc Big Data & Data Intelligence** | Predictive Analytics
 
 💼 **Location:** Lebanon
-📫 **Email:** gabriel@example.com  
+📫 **Email:** aklgabriel3@gmail.com  
 🔗 **LinkedIn:** linkedin.com/in/gabrielakl
 
 ---
