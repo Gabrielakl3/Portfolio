@@ -4,13 +4,13 @@
 
 💼 **Location:** Lebanon
 📫 **Email:** aklgabriel3@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/gabrielakl
+🔗 **LinkedIn:** https://www.linkedin.com/in/gabrielakl
 
 ---
 
 ## 📄 Resume
 
-Download my [CV](resume/Gabriel_Akl_CV.pdf).
+Download my [CV](Resume/Gabriel_Akl -_CV.pdf).
 
 ---
 
