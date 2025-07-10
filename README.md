@@ -10,7 +10,7 @@
 
 ## 📄 Resume
 
-Download my [CV](Resume/Gabriel_Akl -_CV.pdf).
+Download my [CV](Resume/Gabriel_Akl_CV.pdf).
 
 ---
 
